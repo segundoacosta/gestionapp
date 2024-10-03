@@ -1,7 +1,18 @@
-GestionApp ha sido diseñada para proporcionar una solución completa y eficiente al reto planteado. Permite a los usuarios gestionar la información de las aplicaciones, visualizar datos relevantes para la toma de decisiones, y recibir recomendaciones de optimización. La arquitectura y tecnologías elegidas aseguran que la aplicación sea robusta, mantenible y escalable, cumpliendo así con los requisitos técnicos y funcionales del desafío.
+# GestionApp
 
-Estructura:
+## Descripción
 
+GestionApp ha sido diseñada para proporcionar una solución completa y eficiente al reto de optimización de gestión de aplicaciones. Esta aplicación permite a los usuarios:
+
+- Gestionar la información de las aplicaciones
+- Visualizar datos relevantes para la toma de decisiones
+- Recibir recomendaciones de optimización
+
+La arquitectura y tecnologías elegidas aseguran que la aplicación sea robusta, mantenible y escalable, cumpliendo así con los requisitos técnicos y funcionales del desafío.
+
+## Estructura del Proyecto
+
+```
 com.acosta.segundo.gestion.app/
 ├── app/
 │   ├── src/
@@ -49,3 +60,40 @@ com.acosta.segundo.gestion.app/
 │   └── build.gradle.kts
 ├── build.gradle.kts
 └── settings.gradle.kts
+```
+
+## Características Principales
+
+- Gestión de aplicaciones
+- Visualización de datos de uso y recursos
+- Recomendaciones de optimización
+- Interfaz de usuario intuitiva con Jetpack Compose
+- Arquitectura limpia y MVVM para una mejor separación de responsabilidades
+- Persistencia de datos local con Room
+- Inyección de dependencias con Hilt
+
+## Tecnologías Utilizadas
+
+- Kotlin
+- Jetpack Compose
+- Clean Architecture
+- MVVM
+- Room Database
+- Hilt
+- Coroutines y Flow
+
+## Instalación
+
+[Instrucciones de instalación aquí]
+
+## Uso
+
+[Instrucciones de uso aquí]
+
+## Contribución
+
+[Instrucciones para contribuir al proyecto aquí]
+
+## Licencia
+
+[Información de licencia aquí]
